@@ -10,8 +10,8 @@ public class SampleTest extends BaseClass {
 		System.out.println("This is testCase1");
 		System.out.println("This is New Comment");
 		System.out.println("This is New Comment2");
-		System.out.println("This is New Comment5");
-
+		System.out.println("This is New Comment6");
+		
 	}
 	@Test
 	public void testCase2() {
